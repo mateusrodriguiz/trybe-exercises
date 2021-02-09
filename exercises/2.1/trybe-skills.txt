@@ -2,5 +2,6 @@ O que eu vou aprender na Trybe:
 
 - Unix
 - Bash
-- GitHTML
-- css
+- Git
+- React
+- Javascript
