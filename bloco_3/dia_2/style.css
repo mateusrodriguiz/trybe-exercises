@@ -1,0 +1,39 @@
+<style>
+
+h1 {
+    line-height: 65px;
+    color: rgb(151, 102, 12);
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+li{
+    background-color:green;
+}
+
+.back-p-ul {
+    background-color: rgba(5, 224, 170, 0.562);
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+body{
+    font-size: 16px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.brown{
+    background-color: brown;
+}
+

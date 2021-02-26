@@ -1,0 +1,29 @@
+div:hover {
+    border: solid red;
+}
+
+.primaria {
+    color: #324b05;
+}
+
+.secundaria {
+    color: #525203;
+}
+
+.cor-complementar {
+    color: #070141;
+    font-size: 30px;
+}
+
+.cor-escura {
+    color: #032525;
+}
+
+.cor-clara {
+    color: #4ccaca;
+}
+
+h3 {
+    background-color: #ebebeb;
+    font-style: italic;
+}
